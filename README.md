@@ -52,4 +52,4 @@ HOW TO RUN APP:
  8. Run with command: npm run serve
  
 
-Created by Kobylynskyi Vadym
+Created by Vadym Kobylynskyi
